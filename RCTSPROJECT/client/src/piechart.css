@@ -1,0 +1,29 @@
+.color {
+  text-align: center;
+}
+
+.color h3 {
+  margin-bottom: 20px;
+}
+
+.chart-container {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+  .chart-container {
+    max-width: 300px;
+  }
+}
+.color {
+  background-color: hsla(210, 52%, 64%, 0.521);
+  padding: 20px;
+}
+
+.apexcharts-canvas {
+  position: fixed;
+  user-select: none;
+}
+
