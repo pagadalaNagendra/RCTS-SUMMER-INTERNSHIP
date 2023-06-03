@@ -1,0 +1,17 @@
+.color {
+    background-color: hsla(210, 52%, 64%, 0.521);
+    padding: 20px;
+  }
+  
+  h3 {
+    color: #0f0a0a;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .chart-container {
+    width: 2000px;
+    height: 500px;
+    margin-top: 20px;
+  }
+  
